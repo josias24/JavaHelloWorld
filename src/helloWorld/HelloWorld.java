@@ -12,5 +12,13 @@ public class HelloWorld {
 
         /**esto es un comentario de documentacion*/
 
+        String name = "Josias";
+        System.out.println(name); //String para texto
+
+        int edad = 24;
+        System.out.println(edad); //int para numeros enteros
+
+        double altura = 1.83;
+        System.out.println(altura); //double para numeros con coma
     }
 }
