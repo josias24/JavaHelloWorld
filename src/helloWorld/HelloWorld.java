@@ -20,5 +20,11 @@ public class HelloWorld {
 
         double altura = 1.83;
         System.out.println(altura); //double para numeros con coma
+
+        char inicial = 'J';
+        System.out.println(inicial); //char para almacenar un caracter
+
+        boolean estaVivo = true;
+        System.out.println(estaVivo); //boolean para almacenar valor verdadero/falso
     }
 }
