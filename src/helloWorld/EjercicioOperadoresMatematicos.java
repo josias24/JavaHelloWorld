@@ -26,5 +26,26 @@ public class EjercicioOperadoresMatematicos {
         int k = 12;
         int modulo = j % k;
         System.out.println(j + "%" + k + "=" + modulo);
+
+        /*
+
+        int test = 5;
+        ++test; // test is now 6
+
+
+        int test = 5;
+        --test; // test is now 4
+
+
+        int x = 34;
+        int y = ++x; // y is 35 *
+
+
+
+        int x = 34;
+        int y = x++; // y is 34
+
+
+         */
     }
 }
